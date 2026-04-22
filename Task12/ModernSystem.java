@@ -1,0 +1,3 @@
+interface ModernSystem {
+    void request();
+}
