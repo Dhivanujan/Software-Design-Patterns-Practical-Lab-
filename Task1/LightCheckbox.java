@@ -1,3 +1,4 @@
+package Task1;
 // Concrete Product - Light Checkbox
 public class LightCheckbox implements Checkbox {
     public void paint() {

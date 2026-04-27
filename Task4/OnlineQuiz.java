@@ -1,3 +1,4 @@
+package Task4;
 public class OnlineQuiz implements Assessment {
     @Override
     public void submit() {

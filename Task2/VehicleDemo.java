@@ -1,3 +1,4 @@
+package Task2;
 // Main program
 public class VehicleDemo {
     public static void main(String[] args) {

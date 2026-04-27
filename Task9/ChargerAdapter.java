@@ -1,3 +1,4 @@
+package Task9;
 class ChargerAdapter implements Charger {
     private OldCharger oldCharger;
 

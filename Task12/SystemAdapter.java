@@ -1,3 +1,4 @@
+package Task12;
 class SystemAdapter implements ModernSystem {
     private LegacySystem legacy;
 

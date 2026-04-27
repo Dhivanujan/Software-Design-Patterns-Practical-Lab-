@@ -1,3 +1,4 @@
+package Task2;
 // Concrete Factory - Electric
 public class ElectricVehicleFactory implements VehicleFactory {
     @Override

@@ -1,3 +1,4 @@
+package Task10;
 class MediaAdapter implements MediaPlayer {
     private MP4Player mp4Player;
 

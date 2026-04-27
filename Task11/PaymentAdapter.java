@@ -1,3 +1,4 @@
+package Task11;
 import java.util.Objects;
 
 public class PaymentAdapter implements Payment {

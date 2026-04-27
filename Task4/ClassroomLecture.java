@@ -1,3 +1,4 @@
+package Task4;
 public class ClassroomLecture implements Lecture {
     @Override
     public void attend() {

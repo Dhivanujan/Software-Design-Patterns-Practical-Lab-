@@ -1,3 +1,4 @@
+package Task4;
 public class EBook implements ReadingMaterial {
     @Override
     public void read() {

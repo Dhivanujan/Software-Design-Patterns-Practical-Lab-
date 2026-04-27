@@ -1,3 +1,4 @@
+package Task4;
 public class ModernDigitalFactory implements CourseMaterialFactory {
     @Override
     public ReadingMaterial createReadingMaterial() {

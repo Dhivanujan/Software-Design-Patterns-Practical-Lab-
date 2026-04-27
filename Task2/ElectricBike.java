@@ -1,3 +1,4 @@
+package Task2;
 // Concrete Product - Electric Bike
 public class ElectricBike implements Bike {
     @Override

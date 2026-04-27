@@ -1,3 +1,4 @@
+package Task1;
 // Concrete Product - Light Button
 public class LightButton implements Button {
     public void paint() {

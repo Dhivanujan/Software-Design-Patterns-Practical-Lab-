@@ -1,3 +1,4 @@
+package Task4;
 public class UniversityCourse {
     private ReadingMaterial reading;
     private Assessment assessment;
