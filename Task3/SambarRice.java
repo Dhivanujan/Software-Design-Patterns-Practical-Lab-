@@ -1,6 +1,0 @@
-package Task3;
-public class SambarRice implements SideDish {
-    public void serve() {
-        System.out.println("Serving aromatic Sambar with steamed rice...");
-    }
-}
