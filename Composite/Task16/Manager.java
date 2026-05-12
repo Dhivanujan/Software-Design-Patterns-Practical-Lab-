@@ -2,8 +2,7 @@ package Composite.Task16;
 
 import java.util.List;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.ArrayList;
+
 class Manager implements Employee {
  private String name;
  private List<Employee> team = new ArrayList<>();
