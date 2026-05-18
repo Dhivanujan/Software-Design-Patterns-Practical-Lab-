@@ -26,5 +26,8 @@ public class UniversityManagementSystem {
 
         // Post another notice
         noticeBoard.postNotice("Assignment deadline extended.");
+
+        noticeBoard.subscribe(s2);
+        noticeBoard.postNotice("Semester 4 results released.");
     }
 }
